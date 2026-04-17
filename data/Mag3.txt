@@ -1,0 +1,4 @@
+cornichons 50.0
+safran 6.0
+sel 30.0
+poivre 50.0
