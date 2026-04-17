@@ -525,7 +525,3 @@ Ce projet est fourni à titre éducatif pour la matière **Informatique Réparti
 - [ ] Tous les scripts bat/sh en place
 
 ---
-
-**Bon courage avec votre projet RMI ! 🚀**
-
-Consultez le dépôt GitHub : https://github.com/BrYassine98/RMIProject
