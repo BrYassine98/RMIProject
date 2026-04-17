@@ -191,13 +191,22 @@ Chaque fichier `data/MagX.txt` contient **une ligne par ingrédient** :
 ingredient prix
 ```
 
-Exemple :
+Exemple (fichier `data/Mag1.txt`) :
 
 ```text
 cornichons 10.0
 safran 1000.0
 sel 1.0
 poivre 100.0
+```
+
+Autre exemple (`data/Mag3.txt`) :
+
+```text
+cornichons 50.0
+safran 6.0
+sel 30.0
+poivre 50.0
 ```
 
 Règles :
@@ -300,7 +309,7 @@ Prix le plus bas: 6.0 chez Mag3
 ## 12) License & Author
 
 - **Author:** Yassine (GitHub: [@BrYassine98](https://github.com/BrYassine98))
-- **License:** Non spécifiée dans ce dépôt (ajoutez un fichier `LICENSE` pour formaliser)
+- **License:** Aucune licence n'est fournie dans le dépôt (ajoutez un fichier `LICENSE` pour formaliser)
 
 ---
 
